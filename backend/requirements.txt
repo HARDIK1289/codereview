@@ -1,0 +1,18 @@
+fastapi
+uvicorn
+motor
+pymongo
+langchain
+langgraph
+langchain-openai
+langchain-anthropic
+pygithub
+python-dotenv
+pydantic
+# Tree Sitter Core & Specific Languages (Replacing tree-sitter-languages)
+tree-sitter
+tree-sitter-python
+tree-sitter-javascript
+tree-sitter-java
+tree-sitter-c
+tree-sitter-cpp
