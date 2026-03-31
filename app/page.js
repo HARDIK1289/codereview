@@ -4,6 +4,7 @@ import InfoSection from "@/components/landing/InfoSection";
 import Footer from "@/components/landing/Footer";
 import ParticlesBackground from "@/components/landing/ParticlesBackground";
 import CustomCursor from "@/components/ui/CustomCursor";
+import AIAgentWidget from "@/components/landing/AIAgentWidget";
 
 export default function Home() {
   return (
@@ -17,6 +18,8 @@ export default function Home() {
         <InfoSection />
         <Footer />
       </div>
+
+      <AIAgentWidget />
     </main>
   );
 }
